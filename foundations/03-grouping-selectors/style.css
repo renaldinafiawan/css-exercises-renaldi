@@ -1,0 +1,14 @@
+.Hitam {
+    background-color: black;
+    color: white;
+}
+
+.Kuning{
+    background-color: yellow;
+}
+
+.Hitam,
+.Kuning {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+}
